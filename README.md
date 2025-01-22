@@ -2,6 +2,8 @@ Objective:
 The objective of this project is to create a program that helps a seller identify the most
 profitable stores to sell products to, considering both profit potential and deadlines for
 delivery.
+
+
 ![image](https://github.com/user-attachments/assets/707314bf-de4c-4ac6-9f00-90439c8df14e)
 ![image](https://github.com/user-attachments/assets/3b4779df-699d-4583-b817-65bc27bf0610)
 
