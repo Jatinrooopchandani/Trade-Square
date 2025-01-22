@@ -3,6 +3,11 @@ The objective of this project is to create a program that helps a seller identif
 profitable stores to sell products to, considering both profit potential and deadlines for
 delivery.
 
+How to run:
+To run this project you must download and set up SDL2 and SDL2_ttf in your system. Here is a tutorial link: https://www.youtube.com/watch?v=tmGBhM8AEj8&feature=youtu.be
+
+
+
 Functionality:
 The program allows the user to:
 Add a new store with its name, coordinates, profit, and deadline.
